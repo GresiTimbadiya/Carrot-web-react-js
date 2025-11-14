@@ -1,0 +1,364 @@
+{
+    "navigation": [
+        {
+            "id": 1,
+            "name": "Account"
+        },
+        {
+            "id": 2,
+            "name": "Wishlist"
+        },
+        {
+            "id": 3,
+            "name": "Cart"
+        }
+    ],
+    "menu": [
+        {
+            "id": 1,
+            "title": "Home",
+            "dropdown": null
+        },
+        {
+            "id": 2,
+            "title": "Category",
+            "dropdown": [
+                "Shop Left Sidebar",
+                "Shop Right Sidebar",
+                "Full width"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Products",
+            "dropdown": [
+                "Product Left Sidebar",
+                "Product Right Sidebar",
+                "Product Full Width"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Pages",
+            "dropdown": [
+                "About Us",
+                "Contact Us",
+                "Cart",
+                "Checkout",
+                "Track Order",
+                "Wishlist",
+                "FAQ",
+                "Login",
+                "Register",
+                "Policy"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Blog",
+            "dropdown": [
+                "Left Sidebar",
+                "Right Sidebar",
+                "Full width",
+                "Detail Left Sidebar",
+                "Detail Right Sidebar",
+                "Detail Full width"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Elements",
+            "dropdown": [
+                "Products",
+                "Typography",
+                "Buttons"
+            ]
+        }
+    ],
+    "sliders": [
+        {
+            "id": 1,
+            "img": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/banner/banner-2.jpg",
+            "title": "100%  Organic Fruits",
+            "head": "Explore fresh & juicy fruits.",
+            "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet reiciendis beatae consequuntur."
+        },
+        {
+            "id": 2,
+            "img": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/banner/banner.jpg",
+            "title": "100%  Organic Vegitables",
+            "head": "The best way stuff your wallet.",
+            "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet reiciendis beatae consequuntur."
+        }
+    ],
+    "sidemenu": [
+        {
+            "id": 1,
+            "item": "Cake & Milk",
+            "qnt": "65 items"
+        },
+        {
+            "id": 2,
+            "item": "Fresh Meat",
+            "qnt": "30 items"
+        },
+        {
+            "id": 3,
+            "item": "Vegetables",
+            "qnt": "25 items"
+        },
+        {
+            "id": 4,
+            "item": "Apple & Mango",
+            "qnt": "45 items"
+        },
+        {
+            "id": 5,
+            "item": "Strawberry",
+            "qnt": "68 items"
+        }
+    ],
+    "itemimg": [
+        {
+            "id": 1,
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/categories/3.jpg",
+            "name": "Cake",
+            "discount": "50% off"
+        },
+        {
+            "id": 2,
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/categories/4.jpg",
+            "name": "Milk",
+            "discount": "40% off"
+        }
+    ],
+    "autoslider": [
+        {
+            "id": 1,
+            "img": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/product-banner/1.jpg",
+            "title": "Healthy bakery Products",
+            "discount": "30%"
+        },
+        {
+            "id": 2,
+            "img": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/product-banner/2.jpg",
+            "title": "Fresh Snacks & Sweets",
+            "discount": "20%"
+        },
+        {
+            "id": 3,
+            "img": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/product-banner/3.jpg",
+            "title": "Fresh & Healthy Organic Fruits",
+            "discount": "35%"
+        }
+    ],
+    "facilities": [
+        "Delivery in 5 Days",
+        "24/7 Support",
+        "Product Packing",
+        "Payment Secure"
+    ],
+    "timer": [
+        {
+            "id": 1,
+            "discount": "35% Off",
+            "title": "Great deal on organic food.",
+            "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do maecenas accumsan lacus vel facilisis."
+        }
+    ],
+    "footerData": {
+        "brand": {
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/logo/logo.png",
+            "description": "Carrot is the biggest market of grocery products. Get your daily needs from our store.",
+            "address": "51 Green St.Huntington ohaio beach ontario, NY 11746 KY 4783, USA.",
+            "email": "example@email.com",
+            "phone": "+91 123 4567890"
+        },
+        "companyLinks": [
+            "About Us",
+            "Delivery Information",
+            "Privacy Policy",
+            "Terms & Conditions",
+            "Contact Us",
+            "Support Center"
+        ],
+        "categories": [
+            "Dairy & Bakery",
+            "Fruits & Vegetable",
+            "Snack & Spice",
+            "Juice & Drinks",
+            "Chicken & Meat",
+            "Fast Food"
+        ],
+        "newsletter": {
+            "images": [
+                "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/insta/1.jpg",
+                "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/insta/2.jpg",
+                "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/insta/3.jpg",
+                "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/insta/4.jpg"
+            ]
+        }
+    },
+    "productList": [
+        {
+            "productMenu": [
+                {
+                    "id":1,
+                    "menuName": "All"
+                },{
+                    "id":2,
+                    "menuName": "Snacks"
+                },{
+                    "id":3,
+                    "menuName": "Vegetables"
+                },{
+                    "id":4,
+                    "menuName": "Fruits"
+                },{
+                    "id":5,
+                    "menuName": "Bakery"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/product/1.jpg",
+            "category": "Vegetables",
+            "star": "https://upload.wikimedia.org/wikipedia/commons/1/1b/4_stars.svg",
+            "rating": "4.5",
+            "name": "Fresh organic villa farm lomon 500gm pack",
+            "price": "$120.25",
+            "oldPrice": "$123.25"
+        },
+        {
+            "id": 2,
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/product/9.jpg",
+            "category": "Snacks",
+            "star": "https://www.pngmart.com/files/23/Five-Stars-PNG-Isolated-File.png",
+            "rating": "5.0",
+            "name": "Best snakes with hazel nut pack 200gm",
+            "price": "$145",
+            "oldPrice": "$150"
+        },
+        {
+            "id": 3,
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/product/2.jpg",
+            "category": "Fruits",   
+            "star": "https://upload.wikimedia.org/wikipedia/commons/1/1b/4_stars.svg",
+            "rating": "4.5",
+            "name": "Fresh organic apple 1kg simla marming",
+            "price": "$120.25",
+            "oldPrice": "$123.25"
+        },
+        {
+            "id": 4,
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/product/17.jpg",
+            "category": "Bakery",
+            "star": "https://www.pngmart.com/files/23/Five-Stars-PNG-Isolated-File.png",
+            "rating": "5.0",
+            "name": "Delicious white baked fresh bread and toast",
+            "price": "$20",
+            "oldPrice": "$22.10"
+        },
+        {
+            "id": 5,
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/product/11.jpg",
+            "category": "Snacks",
+            "star": "https://www.pngmart.com/files/23/Five-Stars-PNG-Isolated-File.png",
+            "rating": "5.0",
+            "name": "Sweet crunchy nut mix 250gm pack",
+            "price": "$120.25",
+            "oldPrice": "$123.25"
+        },
+        {
+            "id": 6,
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/product/3.jpg",
+            "category": "Fruits",
+            "star": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCZnddcyqa7cHOFVCNnXKIRI8FPy2pnwtxVDkDr2pIrXrN4fhq",
+            "rating": "3.2",
+            "name": "Organic fresh venila farm watermelon 5kg",
+            "price": "$50.30",
+            "oldPrice": "$72.60"
+        },
+        {
+            "id": 7,
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/product/10.jpg",
+            "category": "Snacks",
+            "star": "https://www.pngmart.com/files/23/Five-Stars-PNG-Isolated-File.png",
+            "rating": "5.0",
+            "name": "Sweet crunchy nut mix 250gm pack",
+            "price": "$120.25",
+            "oldPrice": "$123.25"
+        },
+        {
+            "id": 8,
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/product/17.jpg",
+            "category": "Bakery",
+            "star": "https://www.pngmart.com/files/23/Five-Stars-PNG-Isolated-File.png",
+            "rating": "5.0",
+            "name": "Delicious white baked fresh bread and toast",
+            "price": "$20",
+            "oldPrice": "$22.10"
+        }
+    ],
+    "teamPeople": [
+        {
+            "id": 1,
+            "img": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/testimonial/1.jpg",
+            "Role": "Co Founder",
+            "name": "Stephen Smith",
+            "discription": "eiusmpsu dolor sit amet, conse cte tur ng elit, sed do eiusmod tem lacus vel facilisis.",
+            "star": "https://www.pngmart.com/files/23/Five-Stars-PNG-Isolated-File.png"
+        },
+        {
+            "id": 2,
+            "img": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/testimonial/2.jpg",
+            "Role": "Manager",
+            "name": "Lorem Robinson",
+            "discription": "eiusmpsu dolor sit amet, conse cte tur ng elit, sed do eiusmod tem lacus vel facilisis.",
+            "star": "https://upload.wikimedia.org/wikipedia/commons/1/1b/4_stars.svg"
+        },
+        {
+            "id": 3,
+            "img": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/testimonial/3.jpg",
+            "Role": "Team Leader",
+            "name": "Siddika Alard",
+            "discription": "eiusmpsu dolor sit amet, conse cte tur ng elit, sed do eiusmod tem lacus vel facilisis.",
+            "star": "https://www.pngmart.com/files/23/Five-Stars-PNG-Isolated-File.png"
+        }
+    ],
+    "blogData": [
+        {
+            "id": 1,
+            "category": "Snacks",
+            "title": "Urna pretium elit mauris cursus at elit Vestibulum.",
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/blog/2.jpg",
+            "date": "10",
+            "month": "Oct"
+        },
+        {
+            "id": 2,
+            "category": "Food",
+            "title": "Best guide to Shopping for organic ingredients.",
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/blog/1.jpg",
+            "date": "09",
+            "month": "Sep"
+        },
+        {
+            "id": 3,
+            "category": "Snacks",
+            "title": "Cursus at elit vestibulum urna pretium elit mauris.",
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/blog/3.jpg",
+            "date": "12",
+            "month": "Oct"
+        },
+        {
+            "id": 4,
+            "category": "Vegetables",
+            "title": "Condimentum Nam enim bestMorbi odio sodales.",
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v22/carrot-html/assets/img/blog/2.jpg",
+            "date": "22",
+            "month": "Jan"
+        }
+    ]
+}
